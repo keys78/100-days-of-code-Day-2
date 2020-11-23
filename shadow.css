@@ -1,0 +1,196 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:rgb(195, 195, 240);
+    font-family:Cheltenham;
+}
+
+.login-div{
+    margin:100px auto;
+    width:70%;
+    height:500px;
+    background-image:url('./images/shadow.jpg');
+    opacity: 0.9;
+    text-align:center;
+    box-shadow: 11px 18px 9px 0px rgba(0,0,0,0.42);
+    -webkit-box-shadow: 11px 18px 9px 0px rgba(0,0,0,0.42);
+    -moz-box-shadow: 11px 18px 9px 0px rgba(0,0,0,0.42);
+    
+}
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 2em;
+    height: 2em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #020202;
+  }
+  
+  .svg-icon circle {
+    stroke: #000000;
+    stroke-width: 1;
+  }
+
+.navbar .svg-icon{
+    width: 1.5em;
+    height: 1.5em;
+    fill: #020202;
+    stroke: #221f50;
+   opacity:0.7 ;
+   float: right;
+   padding:25px;
+}
+
+
+.emblem {
+    border:2px solid rgb(189, 184, 199);
+    opacity: 0.7;
+}
+
+.emblem h3{
+    padding:15px;
+    font-size:15px;
+    text-align:left;
+    margin-left:20px;
+    color:rgb(68, 56, 136);
+}
+
+.title{
+    margin-top:20px;
+    color:rgb(68, 56, 136);
+    letter-spacing: 5px;
+}
+
+.login-div p{
+    font-size:20px;
+    font-weight: 20px;
+    padding: 0px;
+    color:rgb(68, 56, 136);
+    margin-right:280px;
+}
+
+.login-div input[type="submit"]{
+    min-width:150px;
+    background-color:rgb(68, 56, 136);
+    font-weight:bolder;
+    color:white;
+    padding:7px;
+    border-radius:30px;
+    margin-left:200px;
+
+}
+
+.login-div input[type="submit"]:hover{
+    background-color:rgb(132, 10, 143);
+}
+
+
+
+.login-div input[type="text"], input[type="password"], input[type="Username"], input[type="Email"]{
+    width:55%;
+    border:none;
+    border-bottom:2px solid rgb(0, 0, 0);
+    background:transparent;
+    outline:none;
+    color:block;
+    font-size:16px;
+}
+
+.form{
+    width:60%;
+    float:right;
+}
+
+.Contact-area{
+    width:40%;
+    float: left;
+    color:rgb(66, 5, 66);
+    font-size:17px;
+}
+       
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+/* twitter*/
+  .svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
+  .svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  /** insta **/
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
+.socials .svg-icon{
+    margin-bottom:15px;
+    padding:20px;
+    min-width:2em;
+    height:2em;
+}
